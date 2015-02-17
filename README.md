@@ -157,6 +157,7 @@ Please feel free to send me [pull requests](https://github.com/Danieldizzy/aweso
 - What are your expectations for how many productive hours a developer will have per day?
 
 ##Company
+-Caution please be careful asking your employer these questions. 
 
 - What's the biggest change your group has gone through in the last year? Does your group feel like the recession is over and things are getting better, or are things still pretty bleak?
 
