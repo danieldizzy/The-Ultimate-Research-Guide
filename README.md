@@ -62,9 +62,9 @@ Please feel free to send me [pull requests](https://github.com/Danieldizzy/aweso
 #### Time Management
  * [Time Management](https://www.youtube.com/watch?v=oTugjssqOT0) - Randy Pausch (CMU)
  
-#### Interview References 
+## Interview References 
 
-## System & Network Administration / IT Operations
+#### System & Network Administration / IT Operations
 
 - Do you use a configuration management tool? (Puppet, Chef, cfengine, Ansible)
   - Why was it choosen?
