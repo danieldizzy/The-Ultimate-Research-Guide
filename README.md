@@ -121,7 +121,7 @@ Please feel free to send me [pull requests](https://github.com/Danieldizzy/aweso
 
 - What is the process for managing rules on internal/external firewalls?
 
-##Culture
+##Work Culture
 
 - What would my role at the company be? Where would I be working within the organization?
 
@@ -156,7 +156,8 @@ Please feel free to send me [pull requests](https://github.com/Danieldizzy/aweso
 
 - What are your expectations for how many productive hours a developer will have per day?
 
-##Company
+
+##Interestingly ....
 -Caution please be careful asking your employer these questions. 
 
 - What's the biggest change your group has gone through in the last year? Does your group feel like the recession is over and things are getting better, or are things still pretty bleak?
@@ -185,7 +186,6 @@ Please feel free to send me [pull requests](https://github.com/Danieldizzy/aweso
 
 -	What information is shared with the employees (revenues, costs, operating metrics)? Is this an open-book shop, or do you play it closer to the vest? How is information shared? How do I get access to the information I need to be successful in this job?
 
-- How many non-developer staff members does the company have?
 
 - Who is your healthcare provider?
 
@@ -198,8 +198,6 @@ Please feel free to send me [pull requests](https://github.com/Danieldizzy/aweso
 - What is your company policy with regards to me releasing open source code (personal projects)? If there is an approval process, how lengthy is it?
 
 - What is your company policy with regards to side projects? Am I allowed to work on my own sites?
-
-- Do I own the code I make in my own time on my own hardware?
 
 - Will the company pay for training programs / certifications / conferences? What is the approval process like?
 
