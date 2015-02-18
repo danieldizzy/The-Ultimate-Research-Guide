@@ -8,7 +8,7 @@ Please feel free to send me [pull requests](https://github.com/Danieldizzy/aweso
 ## Table of Contents
  - [Resources for students](#resources-for-students)
  - [Reference for Interview](#Not an Interview Bible) User disgretion is adviced. These tips mainly focus on personal area of interest. But please do check it out. 
- - [I](#songs)
+ - 
 
  This list is intended to serve as a reference point for things to be aware of during your interview process.
 
