@@ -1,6 +1,6 @@
 # An Ultimate Guide to Graduate Research and Life 
 Carefully selected list of resources for graduate school research and life, inspired by [awesome-php](https://github.com/ziadoz/awesome-php), thanks to [Jia-Bin Huang](https://github.com/jbhuang0604).
-
+This list is intended to serve as a reference point for things to be aware of during your interview process.
 
 ## Contributing
 Please feel free to send me [pull requests](https://github.com/Danieldizzy/awesome-computer-vision/pulls) or email (dizzylol4@gmail.com) to add links.
@@ -8,9 +8,9 @@ Please feel free to send me [pull requests](https://github.com/Danieldizzy/aweso
 ## Table of Contents
  - [Resources for students](#resources-for-students)
  - [Reference for Interview](#Not an Interview Bible) User disgretion is adviced. These tips mainly focus on personal area of interest. But please do check it out. 
- - 
 
- This list is intended to serve as a reference point for things to be aware of during your interview process.
+
+ 
 
 ## Tutorials and Talks 
 
