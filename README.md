@@ -47,6 +47,8 @@ Please feel free to send me [pull requests](https://github.com/Danieldizzy/aweso
  * [Giving a Research Talk](http://people.csail.mit.edu/fredo/TalkAdvice.pdf) - Frédo Durand (MIT)
  * [How to give a good talk](http://www.dgp.toronto.edu/~hertzman/courses/gradSkills/2010/GivingGoodTalks.pdf) - David Fleet (University of Toronto) and Aaron Hertzmann (Adobe Research)
  * [Designing conference posters](http://colinpurrington.com/tips/poster-design) - Colin Purrington
+ * [Some tips for preparing a research presentation](http://www.cs.swarthmore.edu/~newhall/presentation.html) - Tia Newhall
+ * [Giving a technical presentation (giving a scientific talk)](https://homes.cs.washington.edu/~mernst/advice/giving-talk.html) - Michael Ernst
 
 #### Research
  * [How to do research](http://people.csail.mit.edu/billf/www/papers/doresearch.pdf) - William T. Freeman (MIT)
