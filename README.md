@@ -63,4 +63,8 @@ Please feel free to send me [pull requests](https://github.com/Danieldizzy/aweso
 
 #### Time Management
  * [Time Management](https://www.youtube.com/watch?v=oTugjssqOT0) - Randy Pausch (CMU)
+ * 
+ 
+### Resumes & Cover Letters for PhD Students
+*[Getting Started with Resumes and Cover Letters](http://www.ocs.fas.harvard.edu/students/gsas/phd_resume_cover_letters.pdf)Havard University
  
