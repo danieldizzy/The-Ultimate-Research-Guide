@@ -66,5 +66,5 @@ Please feel free to send me [pull requests](https://github.com/Danieldizzy/aweso
  * 
  
 ### Resumes & Cover Letters for PhD Students
-*[Getting Started with Resumes and Cover Letters](http://www.ocs.fas.harvard.edu/students/gsas/phd_resume_cover_letters.pdf)Havard University
+*[Getting Started with Resumes and Cover Letters] (http://www.ocs.fas.harvard.edu/students/gsas/phd_resume_cover_letters.pdf)Havard University
  
