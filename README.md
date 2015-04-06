@@ -1,4 +1,5 @@
 # An Ultimate Guide to Graduate Research and Life 
+### Not really altimate... 
 Carefully selected list of resources for graduate school research and life, inspired by [awesome-php](https://github.com/ziadoz/awesome-php), thanks to [Jia-Bin Huang](https://github.com/jbhuang0604).
 This list is intended to serve as a reference point for things to be aware of during your interview process.
 
