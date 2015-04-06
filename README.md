@@ -63,15 +63,15 @@ Please feel free to send me [pull requests](https://github.com/danieldizzy/the-u
  
  
 ### Resumes & Cover Letters for PhD Students
-*[Getting Started with Resumes and Cover Letters] (http://www.ocs.fas.harvard.edu/students/gsas/phd_resume_cover_letters.pdf) Havard University
+* [Getting Started with Resumes and Cover Letters] (http://www.ocs.fas.harvard.edu/students/gsas/phd_resume_cover_letters.pdf) Havard University
  
 
 ### Thinking of a StartUp 
-*[Guide to generating business ideas](http://www.quora.com/Business-Ideas/What-are-the-best-ways-to-think-of-ideas-for-a-startup) Dan Lewis- Think of a solid StartUp Idea
-*[A curated directory of resources & tools to help you build your Startup](http://startupstash.com/) STARTUPSTASH
-*[Tools for startups] (http://www.toolr.co/) 
+* [Guide to generating business ideas](http://www.quora.com/Business-Ideas/What-are-the-best-ways-to-think-of-ideas-for-a-startup) Dan Lewis- Think of a solid StartUp Idea
+* [A curated directory of resources & tools to help you build your Startup](http://startupstash.com/) STARTUPSTASH
+* [Tools for startups] (http://www.toolr.co/) 
 
 
 
 ### Food for the brain 
-*[Improve productivity at work or just relaxation] (http://www.noisli.com/) Noisli
+* [Improve productivity at work or just relaxation] (http://www.noisli.com/) Noisli
