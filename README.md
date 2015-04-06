@@ -3,7 +3,7 @@ Carefully selected list of resources for graduate school research and life, insp
 This list is intended to serve as a reference point for things to be aware of during your interview process.
 
 ## Contributing
-Please feel free to send me [pull requests](https://github.com/Danieldizzy/awesome-computer-vision/pulls) or email (dizzylol4@gmail.com) to add links.
+Please feel free to send me [pull requests](https://github.com/danieldizzy/the-ultimate-research-guide-) or email (dizzylol4@gmail.com) to add links.
 
 ## Table of Contents
  - [Resources for students](#resources-for-students)
@@ -55,16 +55,23 @@ Please feel free to send me [pull requests](https://github.com/Danieldizzy/aweso
  * [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html) - Richard Hamming
  * [Warning Signs of Bogus Progress in Research in an Age of Rich Computation and Information](http://yima.csl.illinois.edu/psfile/bogus.pdf) - Yi Ma (UIUC)
  * [Seven Warning Signs of Bogus Science](http://www.quackwatch.com/01QuackeryRelatedTopics/signs.html) - Robert L. Park
- * [Five Principles for Choosing Research Problems in Computer Graphics](https://www.youtube.com/watch?v=v2Qaf8t8I6c) - Thomas Funkhouser (Cornell University)
  * [How To Do Research In the MIT AI Lab](http://www.cs.indiana.edu/mit.research.how.to.html) - David Chapman (MIT)
- * [Recent Advances in Computer Vision](http://www.slideshare.net/antiw/recent-advances-in-computer-vision) - Ming-Hsuan Yang (UC Merced)
- * [How to Come Up with Research Ideas in Computer Vision?](http://www.slideshare.net/jbhuang/how-to-come-up-with-new-research-ideas-4005840) - Jia-Bin Huang (UIUC)
  * [How to Read Academic Papers](http://www.slideshare.net/jbhuang/how-to-read-academic-papers) - Jia-Bin Huang (UIUC)
 
 #### Time Management
  * [Time Management](https://www.youtube.com/watch?v=oTugjssqOT0) - Randy Pausch (CMU)
- * 
+ 
  
 ### Resumes & Cover Letters for PhD Students
-*[Getting Started with Resumes and Cover Letters] (http://www.ocs.fas.harvard.edu/students/gsas/phd_resume_cover_letters.pdf)Havard University
+*[Getting Started with Resumes and Cover Letters] (http://www.ocs.fas.harvard.edu/students/gsas/phd_resume_cover_letters.pdf) Havard University
  
+
+### Thinking of a StartUp 
+*[Guide to generating business ideas](http://www.quora.com/Business-Ideas/What-are-the-best-ways-to-think-of-ideas-for-a-startup) Dan Lewis- Think of a solid StartUp Idea
+*[A curated directory of resources & tools to help you build your Startup](http://startupstash.com/) STARTUPSTASH
+*[Tools for startups] (http://www.toolr.co/) 
+
+
+
+### Food for the brain 
+*[Improve productivity at work or just relaxation] (http://www.noisli.com/) Noisli
