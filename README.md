@@ -68,4 +68,4 @@ Please feel free to send me [pull requests](https://github.com/danieldizzy/the-u
 
 
 #### Food for the brain 
-* [Improve productivity at work or just relaxation] (http://www.noisli.com/) Noisli
+* [Improve productivity and Relaxation] (http://www.noisli.com/) Noisli
