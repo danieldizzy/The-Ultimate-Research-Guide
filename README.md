@@ -52,6 +52,15 @@ Please feel free to send me [pull requests](https://github.com/danieldizzy/the-u
  * [How To Do Research In the MIT AI Lab](http://www.cs.indiana.edu/mit.research.how.to.html) - David Chapman (MIT)
  * [How to Read Academic Papers](http://www.slideshare.net/jbhuang/how-to-read-academic-papers) - Jia-Bin Huang (UIUC)
 
+#### Health Informatics 
+** [Alphabetical list of HIT Vocabulary] (https://www.udacity.com/wiki/ud514/vocabulary) UDACITY
+**[Alphabetical list of useful HIT Acronyms] (https://www.udacity.com/wiki/ud514/acronyms) UDACITY
+
+#### Smartcards and NFC
+
+
+
+
 #### Time Management
  * [Time Management](https://www.youtube.com/watch?v=oTugjssqOT0) - Randy Pausch (CMU)
  
