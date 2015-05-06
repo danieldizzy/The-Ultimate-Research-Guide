@@ -53,10 +53,10 @@ Please feel free to send me [pull requests](https://github.com/danieldizzy/the-u
  * [How to Read Academic Papers](http://www.slideshare.net/jbhuang/how-to-read-academic-papers) - Jia-Bin Huang (UIUC)
 
 #### Health Informatics 
-** [Alphabetical list of HIT Vocabulary] (https://www.udacity.com/wiki/ud514/vocabulary) UDACITY
-** [Alphabetical list of useful HIT Acronyms] (https://www.udacity.com/wiki/ud514/acronyms) UDACITY
-** [The World Health Organization report "Preventing chronic diseases: a vital investment"] (https://professional.diabetes.org/UserFiles/WHOchronicdiseasereportJun06.pdf) WHO
-** [2015 Healthcare Outlook for Japan] (http://www2.deloitte.com/content/dam/Deloitte/global/Documents/Life-Sciences-Health-Care/gx-lshc-2015-health-care-outlook-japan.pdf) DELOITTE
+* [Alphabetical list of HIT Vocabulary] (https://www.udacity.com/wiki/ud514/vocabulary) UDACITY
+* [Alphabetical list of useful HIT Acronyms] (https://www.udacity.com/wiki/ud514/acronyms) UDACITY
+* [The World Health Organization report "Preventing chronic diseases: a vital investment"] (https://professional.diabetes.org/UserFiles/WHOchronicdiseasereportJun06.pdf) WHO
+* [2015 Healthcare Outlook for Japan] (http://www2.deloitte.com/content/dam/Deloitte/global/Documents/Life-Sciences-Health-Care/gx-lshc-2015-health-care-outlook-japan.pdf) DELOITTE
 
 #### Smartcards and NFC
 
