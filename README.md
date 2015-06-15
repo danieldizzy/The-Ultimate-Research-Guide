@@ -61,7 +61,8 @@ Please feel free to send me [pull requests](https://github.com/danieldizzy/the-u
 
 #### Smartcards and NFC
 
-
+### Git Getting Started
+* [Getting Started with git: The basics] (http://rogerdudler.github.io/git-guide/)
 
 
 #### Time Management
